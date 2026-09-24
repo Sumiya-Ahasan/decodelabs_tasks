@@ -11,7 +11,7 @@ This repository contains all four tasks completed as part of the DecodeLabs proj
 [View Task 2](https://github.com/Sumiya-Ahasan/Project_2_credit-card-fraud-detection.git)
 
 ### Task 3
-[View Task 3](./Task_3/)
+[View Task 3](https://github.com/Sumiya-Ahasan/Project_3_customer-segmentation-kmeans.git)
 
 ### Task 4
 [View Task 4](./Task_4/)
