@@ -5,7 +5,7 @@ This repository contains all four tasks completed as part of the DecodeLabs proj
 ## Tasks
 
 ### Task 1
-[View Task 1](./Task_1/)
+[View Task 1](https://github.com/Sumiya-Ahasan/Project1-Data-Engineering-EDA.git)
 
 ### Task 2
 [View Task 2](./Task_2/)
