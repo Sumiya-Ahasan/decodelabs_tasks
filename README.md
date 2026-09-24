@@ -14,4 +14,4 @@ This repository contains all four tasks completed as part of the DecodeLabs proj
 [View Task 3](https://github.com/Sumiya-Ahasan/Project_3_customer-segmentation-kmeans.git)
 
 ### Task 4
-[View Task 4](./Task_4/)
+[View Task 4](https://github.com/Sumiya-Ahasan/project_4_nlp-sentiment-analysis.git)
