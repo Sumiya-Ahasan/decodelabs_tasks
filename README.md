@@ -8,7 +8,7 @@ This repository contains all four tasks completed as part of the DecodeLabs proj
 [View Task 1](https://github.com/Sumiya-Ahasan/Project1-Data-Engineering-EDA.git)
 
 ### Task 2
-[View Task 2](./Task_2/)
+[View Task 2](https://github.com/Sumiya-Ahasan/Project_2_credit-card-fraud-detection.git)
 
 ### Task 3
 [View Task 3](./Task_3/)
